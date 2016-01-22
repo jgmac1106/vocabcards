@@ -1,2 +1,2 @@
 # vocabcards
-An artistic twost on making vocabulary review cards
+An artistic twist on making vocabulary review cards
